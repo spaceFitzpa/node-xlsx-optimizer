@@ -1,0 +1,21 @@
+{
+  "name": "node-xcel-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "babel-node script.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "babel-jest": "^27.0.1",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^27.0.1",
+    "xlsx": "^0.17.0"
+  }
+}
