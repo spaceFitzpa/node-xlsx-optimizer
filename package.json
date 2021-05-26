@@ -2,6 +2,10 @@
   "name": "node-xcel-script",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "v12.22.1",
+    "npm": "6.14.12"
+  },
   "main": "script.js",
   "scripts": {
     "start": "babel-node script.js",
